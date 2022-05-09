@@ -1,0 +1,518 @@
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 46px;
+    background-color: var(--black-color);
+    z-index: 1;
+}
+
+#nav {
+    display: inline-block;
+}
+
+.name_web {
+    height: 14px;
+    width: 100%;
+    background-color: white;
+}
+
+.name_web p {
+    margin-top: 0px;
+    color: rgb(166, 166, 166);
+    text-align: center;
+    font-size: 12px;
+}
+
+.slider-1 {
+    margin-top: 0px;
+    margin-bottom: 15px;
+    padding-top: 50%;
+    background: url('/img/1.png')  center / cover no-repeat ; 
+    position: relative;
+}
+.slider-2 {
+    margin-top: 0px;
+    margin-bottom: 15px;
+    padding-top: 50%;
+    background: url('/img/2.png')  center / cover no-repeat ; 
+    position: relative;
+}
+.slider-3 {
+    margin-top: 0px;
+    margin-bottom: 15px;
+    padding-top: 50%;
+    background: url('/img/3.png')  center / cover no-repeat ; 
+    position: relative;
+}
+.slider-4 {
+    margin-top: 0px;
+    margin-bottom: 15px;
+    padding-top: 50%;
+    background: url('/img/4.png')  center / cover no-repeat ; 
+    position: relative;
+}
+.slider-5 {
+    margin-top: 0px;
+    margin-bottom: 15px;
+    padding-top: 50%;
+    background: url('/img/5.png')  center / cover no-repeat ; 
+    position: relative;
+}
+.slider-6 {
+    margin-top: 0px;
+    margin-bottom: 15px;
+    padding-top: 50%;
+    background: url('/img/6.png')  center / cover no-repeat ; 
+    position: relative;
+}
+.slider-7 {
+    margin-top: 0px;
+    margin-bottom: 15px;
+    padding-top: 50%;
+    background: url('/img/7.png')  center / cover no-repeat ; 
+    position: relative;
+}
+.slider-8 {
+    margin-top: 0px;
+    margin-bottom: 15px;
+    padding-top: 50%;
+    background: url('/img/8.png')  center / cover no-repeat ; 
+    position: relative;
+}
+.slider-9 {
+    margin-top: 0px;
+    margin-bottom: 15px;
+    padding-top: 50%;
+    background: url('/img/9.png')  center / cover no-repeat ; 
+    position: relative;
+}
+.slider-10 {
+    margin-top: 0px;
+    margin-bottom: 15px;
+    padding-top: 50%;
+    background: url('/img/10.png')  center / cover no-repeat ; 
+    position: relative;
+}
+.slider-11 {
+    margin-top: 0px;
+    margin-bottom: 15px;
+    padding-top: 50%;
+    background: url('/img/11.png')  center / cover no-repeat ; 
+    position: relative;
+}
+.slider-12 {
+    margin-top: 0px;
+    margin-bottom: 15px;
+    padding-top: 50%;
+    background: url('/img/12.png')  center / cover no-repeat ; 
+    position: relative;
+}
+.slider-13 {
+    margin-top: 0px;
+    margin-bottom: 15px;
+    padding-top: 50%;
+    background: url('/img/13.png')  center / cover no-repeat ; 
+    position: relative;
+}
+.slider-14 {
+    margin-top: 0px;
+    margin-bottom: 15px;
+    padding-top: 50%;
+    background: url('/img/14.png')  center / cover no-repeat ; 
+    position: relative;
+}
+.slider-15 {
+    margin-top: 0px;
+    margin-bottom: 15px;
+    padding-top: 50%;
+    background: url('/img/15.png')  center / cover no-repeat ; 
+    position: relative;
+}
+.slider-16 {
+    margin-top: 0px;
+    margin-bottom: 16px;
+    padding-top: 50%;
+    background: url('/img/16.png')  center / cover no-repeat ; 
+    position: relative;
+}
+.slider-17 {
+    margin-top: 0px;
+    margin-bottom: 17px;
+    padding-top: 50%;
+    background: url('/img/17.png')  center / cover no-repeat ; 
+    position: relative;
+}
+.slider-18 {
+    margin-top: 0px;
+    margin-bottom: 16px;
+    padding-top: 50%;
+    background: url('/img/18.png')  center / cover no-repeat ; 
+    position: relative;
+}
+.slider-19 {
+    margin-top: 0px;
+    margin-bottom: 16px;
+    padding-top: 50%;
+    background: url('/img/19.png')  center / cover no-repeat ; 
+    position: relative;
+}
+.slider-20 {
+    margin-top: 0px;
+    margin-bottom: 16px;
+    padding-top: 50%;
+    background: url('/img/20.png')  center / cover no-repeat ; 
+    position: relative;
+}
+.slider-21 {
+    margin-top: 0px;
+    margin-bottom: 15px;
+    padding-top: 50%;
+    background: url('/img/21.png')  center / cover no-repeat ; 
+    position: relative;
+}
+.slider-22 {
+    margin-top: 0px;
+    margin-bottom: 15px;
+    padding-top: 50%;
+    background: url('/img/22.png')  center / cover no-repeat ; 
+    position: relative;
+}
+.slider-23 {
+    margin-top: 0px;
+    margin-bottom: 15px;
+    padding-top: 50%;
+    background: url('/img/23.png')  center / cover no-repeat ; 
+    position: relative;
+}
+.slider-24 {
+    margin-top: 0px;
+    margin-bottom: 15px;
+    padding-top: 50%;
+    background: url('/img/24.png')  center / cover no-repeat ; 
+    position: relative;
+}
+.slider-25 {
+    margin-top: 0px;
+    margin-bottom: 15px;
+    padding-top: 50%;
+    background: url('/img/25.png')  center / cover no-repeat ; 
+    position: relative;
+}
+.slider-26 {
+    margin-top: 0px;
+    margin-bottom: 16px;
+    padding-top: 50%;
+    background: url('/img/26.png')  center / cover no-repeat ; 
+    position: relative;
+}
+.slider-27 {
+    margin-top: 0px;
+    margin-bottom: 17px;
+    padding-top: 50%;
+    background: url('/img/27.png')  center / cover no-repeat ; 
+    position: relative;
+}
+.slider-28 {
+    margin-top: 0px;
+    margin-bottom: 16px;
+    padding-top: 50%;
+    background: url('/img/28.png')  center / cover no-repeat ; 
+    position: relative;
+}
+.slider-29 {
+    margin-top: 0px;
+    margin-bottom: 16px;
+    padding-top: 50%;
+    background: url('/img/29.png')  center / cover no-repeat ; 
+}
+.slider-30 {
+    margin-top: 0px;
+    margin-bottom: 16px;
+    padding-top: 50%;
+    background: url('/img/30.png')  center / cover no-repeat ; 
+    position: relative;
+}
+.slider-31 {
+    margin-top: 0px;
+    margin-bottom: 15px;
+    padding-top: 50%;
+    background: url('/img/31.png')  center / cover no-repeat ; 
+    position: relative;
+}
+.slider-32 {
+    margin-top: 0px;
+    margin-bottom: 15px;
+    padding-top: 50%;
+    background: url('/img/32.png')  center / cover no-repeat ; 
+    position: relative;
+}
+.slider-33 {
+    margin-top: 0px;
+    margin-bottom: 15px;
+    padding-top: 50%;
+    background: url('/img/33.png')  center / cover no-repeat ; 
+    position: relative;
+}
+.slider-34 {
+    margin-top: 0px;
+    margin-bottom: 15px;
+    padding-top: 50%;
+    background: url('/img/34.png')  center / cover no-repeat ; 
+    position: relative;
+}
+.slider-35 {
+    margin-top: 0px;
+    margin-bottom: 15px;
+    padding-top: 50%;
+    background: url('/img/35.png')  center / cover no-repeat ; 
+    position: relative;
+}
+.slider-36 {
+    margin-top: 0px;
+    margin-bottom: 16px;
+    padding-top: 50%;
+    background: url('/img/36.png')  center / cover no-repeat ; 
+    position: relative;
+}
+.slider-37 {
+    margin-top: 0px;
+    margin-bottom: 17px;
+    padding-top: 50%;
+    background: url('/img/37.png')  center / cover no-repeat ; 
+    position: relative;
+}
+.slider-38 {
+    margin-top: 0px;
+    margin-bottom: 16px;
+    padding-top: 50%;
+    background: url('/img/38.png')  center / cover no-repeat ; 
+    position: relative;
+}
+.slider-39 {
+    margin-top: 0px;
+    margin-bottom: 16px;
+    padding-top: 50%;
+    background: url('/img/39.png')  center / cover no-repeat ; 
+}
+.slider-40 {
+    margin-top: 0px;
+    margin-bottom: 16px;
+    padding-top: 50%;
+    background: url('/img/40.png')  center / cover no-repeat ; 
+    position: relative;
+}
+.slider-41 {
+    margin-top: 0px;
+    margin-bottom: 15px;
+    padding-top: 50%;
+    background: url('/img/41.png')  center / cover no-repeat ; 
+    position: relative;
+}
+.slider-42 {
+    margin-top: 0px;
+    margin-bottom: 15px;
+    padding-top: 50%;
+    background: url('/img/42.png')  center / cover no-repeat ; 
+    position: relative;
+}
+.slider-43 {
+    margin-top: 0px;
+    margin-bottom: 15px;
+    padding-top: 50%;
+    background: url('/img/43.png')  center / cover no-repeat ; 
+    position: relative;
+}
+.slider-44 {
+    margin-top: 0px;
+    margin-bottom: 15px;
+    padding-top: 50%;
+    background: url('/img/44.png')  center / cover no-repeat ; 
+    position: relative;
+}
+.slider-45 {
+    margin-top: 0px;
+    margin-bottom: 15px;
+    padding-top: 50%;
+    background: url('/img/45.png')  center / cover no-repeat ; 
+    position: relative;
+}
+.slider-46 {
+    margin-top: 0px;
+    margin-bottom: 16px;
+    padding-top: 50%;
+    background: url('/img/46.png')  center / cover no-repeat ; 
+    position: relative;
+}
+.slider-47 {
+    margin-top: 0px;
+    margin-bottom: 17px;
+    padding-top: 50%;
+    background: url('/img/47.png')  center / cover no-repeat ; 
+    position: relative;
+}
+.slider-48 {
+    margin-top: 0px;
+    margin-bottom: 16px;
+    padding-top: 50%;
+    background: url('/img/48.png')  center / cover no-repeat ; 
+    position: relative;
+}
+.slider-49 {
+    margin-top: 0px;
+    margin-bottom: 16px;
+    padding-top: 50%;
+    background: url('/img/49.png')  center / cover no-repeat ; 
+}
+.slider-50 {
+    margin-top: 0px;
+    margin-bottom: 16px;
+    padding-top: 50%;
+    background: url('/img/50.png')  center / cover no-repeat ; 
+    position: relative;
+}
+.slider-51 {
+    margin-top: 0px;
+    margin-bottom: 15px;
+    padding-top: 50%;
+    background: url('/img/51.png')  center / cover no-repeat ; 
+    position: relative;
+}
+.slider-52 {
+    margin-top: 0px;
+    margin-bottom: 15px;
+    padding-top: 50%;
+    background: url('/img/52.png')  center / cover no-repeat ; 
+    position: relative;
+}
+.slider-53 {
+    margin-top: 0px;
+    margin-bottom: 15px;
+    padding-top: 50%;
+    background: url('/img/53.png')  center / cover no-repeat ; 
+    position: relative;
+}
+.slider-54 {
+    margin-top: 0px;
+    margin-bottom: 15px;
+    padding-top: 50%;
+    background: url('/img/54.png')  center / cover no-repeat ; 
+    position: relative;
+}
+.slider-55 {
+    margin-top: 0px;
+    margin-bottom: 15px;
+    padding-top: 50%;
+    background: url('/img/55.png')  center / cover no-repeat ; 
+    position: relative;
+}
+.slider-56 {
+    margin-top: 0px;
+    margin-bottom: 16px;
+    padding-top: 50%;
+    background: url('/img/56.png')  center / cover no-repeat ; 
+    position: relative;
+}
+.slider-57 {
+    margin-top: 0px;
+    margin-bottom: 17px;
+    padding-top: 50%;
+    background: url('/img/57.png')  center / cover no-repeat ; 
+    position: relative;
+}
+.slider-58 {
+    margin-top: 0px;
+    margin-bottom: 16px;
+    padding-top: 50%;
+    background: url('/img/58.png')  center / cover no-repeat ; 
+    position: relative;
+}
+.slider-59 {
+    margin-top: 0px;
+    margin-bottom: 16px;
+    padding-top: 50%;
+    background: url('/img/59.png')  center / cover no-repeat ; 
+}
+.slider-60 {
+    margin-top: 0px;
+    margin-bottom: 16px;
+    padding-top: 50%;
+    background: url('/img/60.png')  center / cover no-repeat ; 
+    position: relative;
+}
+.slider-61 {
+    margin-top: 0px;
+    margin-bottom: 15px;
+    padding-top: 50%;
+    background: url('/img/61.png')  center / cover no-repeat ; 
+    position: relative;
+}
+.slider-62 {
+    margin-top: 0px;
+    margin-bottom: 15px;
+    padding-top: 50%;
+    background: url('/img/62.png')  center / cover no-repeat ; 
+    position: relative;
+}
+.slider-63 {
+    margin-top: 0px;
+    margin-bottom: 15px;
+    padding-top: 50%;
+    background: url('/img/63.png')  center / cover no-repeat ; 
+    position: relative;
+}
+.slider-64 {
+    margin-top: 0px;
+    margin-bottom: 15px;
+    padding-top: 50%;
+    background: url('/img/64.png')  center / cover no-repeat ; 
+    position: relative;
+}
+.slider-65 {
+    margin-top: 0px;
+    margin-bottom: 15px;
+    padding-top: 50%;
+    background: url('/img/65.png')  center / cover no-repeat ; 
+    position: relative;
+}
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .text-content {
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    color: #fff;
+    transform: translateX(-50%);
+    text-align: center;
+}
+
+.text-heading{
+    font-weight: 400px;
+    font-size: 24px;
+}
+
+.text-description {
+    padding-top: 20px;
+    font-size: 16px;
+} */
